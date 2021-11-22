@@ -19,10 +19,10 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=somg10&theme=highcontrast" alt="somg10" />
 </p>
 
- 🌱 I’m currently working as Associate Software Developer
+ <h3 align="center">🌱 I’m currently working as Associate Software Developer </h3>
 
 
- 📫 How to reach me *somgupta004@gmail.com*
+ <h3 align="center">📫 How to reach me *somgupta004@gmail.com* </h3>
 
 <hr>
 
