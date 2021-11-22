@@ -3,6 +3,14 @@
 <hr>
 
 <h1 align="center"> ----- </h1>
+<p>
+🌱 I’m currently working as Associate Software Developer 
+
+
+📫 How to reach me *somgupta004@gmail.com* 
+
+
+</p>
 
 
 <h3 align="left">Github Stats</h3>
@@ -18,14 +26,7 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=somg10&theme=highcontrast" alt="somg10" />
 </p>
-<p>
- 🌱 I’m currently working as Associate Software Developer 
 
-
-📫 How to reach me *somgupta004@gmail.com* 
-
-
-</p>
 
 <h3 align="left">Contribution last month</h3>
 
