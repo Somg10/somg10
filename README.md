@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Som  </h1>
-<h3 align="center">A passionate software developer from India</h3>
+
 <hr>
 
 <h1 align="center"> ----- </h1>
@@ -19,12 +19,12 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=somg10&theme=highcontrast" alt="somg10" />
 </p>
 <p>
- <h3 align="center">🌱 I’m currently working as Associate Software Developer </h3>
+ 🌱 I’m currently working as Associate Software Developer 
 
 
- <h3 align="center">📫 How to reach me *somgupta004@gmail.com* </h3>
+📫 How to reach me *somgupta004@gmail.com* 
 
-<hr>
+
 </p>
 
 <h3 align="left">Contribution last month</h3>
