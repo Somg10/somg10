@@ -28,11 +28,11 @@
 </p>
 
 
-
+<p>
 <h3 align="left">Contribution last month</h3>
 
 <hr>
-
+</p>
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=somg10&theme=xcode" alt="somg10" />
 </p>
