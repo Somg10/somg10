@@ -35,13 +35,7 @@
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=somg10&theme=xcode" alt="somg10" />
 </p>
- 
-<hr>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somg10&theme=highcontrast" alt="somg10" />
-</p>
 
-<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somg10&label=Profile%20views&color=0e75b6&style=flat" alt="somg10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somg10" alt="somg10" /></a> </p>
