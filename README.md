@@ -43,5 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somg10&show_icons=true&theme=dark&locale=en" alt="somg10" /></p>
 <hr>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guhankesav&theme=highcontrast" alt="somg10" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somg10&theme=highcontrast" alt="somg10" />
 </p>
