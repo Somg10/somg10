@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Som </h1>
-
+<hr>
+<h1 align="center"> ----- </h1>
 <hr>
  🌱 I’m currently working as Associate Software Developer
 
@@ -19,7 +20,7 @@
 
 
 
-<h1 align="center"> ----- </h1>
+
 
 
 <h3 align="left">Github Stats</h3>
