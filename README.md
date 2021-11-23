@@ -28,13 +28,13 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhankesav&show_icons=true&theme=dark&locale=en&layout=compact" alt="guhankesav" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somg10&show_icons=true&theme=dark&locale=en&layout=compact" alt="somg10" />
 </p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guhankesav&show_icons=true&theme=dark&locale=en" alt="guhankesav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somg10&show_icons=true&theme=dark&locale=en" alt="somg10" /></p>
 <hr>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guhankesav&theme=highcontrast" alt="guhankesav" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somg10&theme=highcontrast" alt="somg10" />
 </p>
