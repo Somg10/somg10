@@ -26,8 +26,13 @@
 <h3 align="left">📈 GitHub Stats</h3>
 
 <hr>
-[![Somg10's github stats](https://github-readme-stats.vercel.app/api?username=somg10&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=somg10&show_icons=true&line_height=20&show_icons=true&theme=vue)	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somg10&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=somg10&show_icons=true&line_height=20&show_icons=true&theme=vue)	
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somg10&show_icons=true&theme=dark&locale=en&layout=compact&line_height=20" alt="somg10" />
+</p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somg10&show_icons=true&theme=dark&line_height=20&locale=en" alt="somg10" /></p>
 
 
 
