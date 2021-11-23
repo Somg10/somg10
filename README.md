@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Som </h1>
 
 <hr>
+ 🌱 I’m currently working as Associate Software Developer
+
+
+ 📫 How to reach me *somgupta004@gmail.com*
+
+
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somg10&label=Profile%20views&color=0e75b6&style=flat" alt="somg10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somg10" alt="somg10" /></a> </p>
 
 
 <hr>
- 🌱 I’m currently working as Associate Software Developer
-
-
- 📫 How to reach me *somgupta004@gmail.com*
-
-<hr>
 
 
 
-<hr>
+
 
 <h1 align="center"> ----- </h1>
 
